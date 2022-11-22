@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projeto Pokemon</string>
+    <string name="welcomeHome">Bem vindo ao AboutPokemon</string>
+    <string name="inputName">Digite o nome do pokemon</string>
+    <string name="findPokemon">Procurar pokemon</string>
+    <string name="namePokemon">O nome do pokemon é</string>
+    <string name="numberPokemon">O número do pokemon é</string>
+</resources>
